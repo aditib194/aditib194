@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- GitHub Profile README for Shobhakar Tiwari -->
 
-<!--
-**aditib194/aditib194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="font-weight: 600;">Aditi Bansal</h1>
+<h3 align="center" style="font-weight: 400; color: #555;">Computer Science Student at UMass Amherst</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditi-bansal-15b191222/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Work Experience
+
+- Research Assistant at UMass Theory Group
+- Software Engineer at the National Center for Technology and Dispute Resolution
+- Software Developer at BUILD UMass
